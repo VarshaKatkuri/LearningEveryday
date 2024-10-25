@@ -27,17 +27,12 @@ K8S architecture contains a key object called "Pod" which enable K8S to work on 
     1. Container Runtime: It is a software that is responsible for running containers withing a pod. 
     2. Kubelet: Kubelet is a primary or principal component that receives information from the control plane node (api server) that runs on each worker node. It ensures that the containers within the pods are running as expected. It is also responsible for the overall health of the node. 
     3. KubeProxy: It enables networking within the node. It allows pods within the nodes to communicate with each other. It is responsible for creating IP table rules that enable pod-to-pod networking. 
-![K8S Architecture](/.eraser/5SbAyc1y0ja2Bw5HOPb1___5xDTFinwA9fr5hUYeqTxN5JwMS42___---figure---9iwT-S2dM4HPxNnXKAnFl---figure---_PRGcgIvotH8B0X1WzSpRg.png "K8S Architecture")
+![K8S Architecture](/.eraser/5SbAyc1y0ja2Bw5HOPb1___5xDTFinwA9fr5hUYeqTxN5JwMS42___---figure----LkjBPRMkpIOflvOb_VQ7---figure---_PRGcgIvotH8B0X1WzSpRg.png "K8S Architecture")
 
 
 
 
 
 
-<!-- eraser-additional-content -->
-## Diagrams
-<!-- eraser-additional-files -->
-<a href="/Day1/What is Kubernetes?-cloud-architecture-1.eraserdiagram" data-element-id="nrf5TNP3ZlzgUiuAcrLCl"><img src="/.eraser/5SbAyc1y0ja2Bw5HOPb1___5xDTFinwA9fr5hUYeqTxN5JwMS42___---diagram----da771ffa4f79fed5d5b78f52c16f6d06.png" alt="" data-element-id="nrf5TNP3ZlzgUiuAcrLCl" /></a>
-<!-- end-eraser-additional-files -->
-<!-- end-eraser-additional-content -->
+
 <!--- Eraser file: https://app.eraser.io/workspace/5SbAyc1y0ja2Bw5HOPb1 --->
